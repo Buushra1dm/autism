@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 2,
+        "parent_age": "22",
+        "child_age": "4",
+        "gender": "male",
+        "diagnosis": "autism",
+        "region": "north"
+    },
+    {
+        "user_id": 1,
+        "parent_age": "22",
+        "child_age": "4",
+        "gender": "male",
+        "diagnosis": "autism",
+        "region": "north"
+    },
+    {
+        "user_id": 4,
+        "parent_age": "28",
+        "child_age": "6",
+        "gender": "male",
+        "diagnosis": "pdd-nos",
+        "region": "east"
+    }
+]
